@@ -1,0 +1,12 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "editor.tokenColorCustomizations": {
+      "comments": "#ee0909"
+    }
+  }
+}

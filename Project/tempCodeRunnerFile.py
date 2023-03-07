@@ -1,0 +1,2 @@
+people={}
+print(type(people))
